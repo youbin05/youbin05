@@ -12,6 +12,6 @@ INFP
 
 ### 연락처
 010 0000 0000
-wpservice21@gmail.com
+youbin4869@gmail.com
 
 ### Languages and Tool
