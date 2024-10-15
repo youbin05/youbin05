@@ -1,4 +1,4 @@
-# 웹퍼블리셔 지망생 : 김유빈
+# 웹디자이너 지망생 : 김유빈
 ## I aspire to become a prospective web publisher.
 깃허브 프로필 소개입니다.
 
