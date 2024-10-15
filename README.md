@@ -13,5 +13,3 @@
 010 8898 4917
 ### email
 youbin4869@gmail.com
-
-### Languages and Tool
